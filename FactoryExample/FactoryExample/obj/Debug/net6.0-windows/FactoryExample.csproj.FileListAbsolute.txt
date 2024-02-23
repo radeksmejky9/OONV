@@ -1,0 +1,35 @@
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\bin\Debug\net6.0-windows\FactoryExample.exe
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\bin\Debug\net6.0-windows\FactoryExample.deps.json
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\bin\Debug\net6.0-windows\FactoryExample.runtimeconfig.json
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\bin\Debug\net6.0-windows\FactoryExample.dll
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\bin\Debug\net6.0-windows\FactoryExample.pdb
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.Form1.resources
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.csproj.GenerateResource.cache
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.AssemblyInfoInputs.cache
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.AssemblyInfo.cs
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.csproj.CoreCompileInputs.cache
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.dll
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\refint\FactoryExample.dll
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.pdb
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.genruntimeconfig.cache
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\ref\FactoryExample.dll
+C:\Users\radek\source\repos\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.Canvas.resources
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\bin\Debug\net6.0-windows\FactoryExample.exe
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\bin\Debug\net6.0-windows\FactoryExample.deps.json
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\bin\Debug\net6.0-windows\FactoryExample.runtimeconfig.json
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\bin\Debug\net6.0-windows\FactoryExample.dll
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\bin\Debug\net6.0-windows\FactoryExample.pdb
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.csproj.AssemblyReference.cache
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.Canvas.resources
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.Form1.resources
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.csproj.GenerateResource.cache
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.AssemblyInfoInputs.cache
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.AssemblyInfo.cs
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.csproj.CoreCompileInputs.cache
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.dll
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\refint\FactoryExample.dll
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.pdb
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\FactoryExample.genruntimeconfig.cache
+C:\Users\Radek Šmejkal\Desktop\FactoryExample\FactoryExample\obj\Debug\net6.0-windows\ref\FactoryExample.dll
